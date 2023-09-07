@@ -1,8 +1,0 @@
-{
-    "name": "alebedev80/perf_course",
-
-    "require": {
-        "php": ">=8.2.0",
-        "symfony/symfony": "^v6.3"
-    }
-}
